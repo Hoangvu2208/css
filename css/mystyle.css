@@ -2,5 +2,14 @@ h1{
     color: green;
 }
 p{
-    color: blueviolet;
+    color: green;
+}
+.model1{
+    display: flex;
+    margin :auto;
+    border: 30px solid green;
+    color: green;
+    background-color: white;
+    align-items:center ;
+    justify-content: center;
 }
